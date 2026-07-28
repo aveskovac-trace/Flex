@@ -1,0 +1,13 @@
+body { background-color: lightseagreen;}
+
+.container { 
+    display: flex;
+    justify-content: center;
+}
+
+.box { height: 80px;
+       width: 80px;
+       background-color: red;
+       text-align: center;
+       border: 8px solid black;
+    }
