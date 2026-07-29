@@ -1,0 +1,38 @@
+.header {
+    background-color: peachpuff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-links ul {
+    display: flex;
+    gap: 30px;
+}
+
+.right-links ul {
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.logo {
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+
+ul { list-style-type: none;}
+
+a {
+    background-color: white;
+    padding: 10px;
+    
+}
